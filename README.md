@@ -14,4 +14,8 @@ This is *italicized*
 
 ### This is an image
 
-![Image of a corgi](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an octo-cat](https://myoctocat.com/assets/images/base-octocat.svg)
+
+### Journal Entries
+
+Visit my [Journal 8/26](journal/8-26-25-entry.md)
