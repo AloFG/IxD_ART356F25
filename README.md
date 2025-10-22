@@ -19,6 +19,7 @@ This is *italicized*
 ### Journal Entries
 
 Visit my journal entries
+
 [Journal 8/26](journal/8-26-25-entry.md)
 
 [Journal 10/21](journal/10-21-25-Ch4.1entry.md)
